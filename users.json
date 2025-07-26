@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Said Nachid",
+    "username": "saidn",
+    "email": "said.nachid@example.com",
+    "age": 25,
+    "gender": "male",
+    "location": "Morocco",
+    "job": "frontend developer",
+    "hobby": "painting",
+    "profilePicture": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Lina Benali",
+    "username": "linab",
+    "email": "lina.benali@example.com",
+    "age": 22,
+    "gender": "female",
+    "location": "Algeria",
+    "job": "UI/UX designer",
+    "hobby": "photography",
+    "profilePicture": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "name": "Youssef Haddioui",
+    "username": "youssefh",
+    "email": "youssef.h@example.com",
+    "age": 30,
+    "gender": "male",
+    "location": "Tunisia",
+    "job": "backend developer",
+    "hobby": "gaming",
+    "profilePicture": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 4,
+    "name": "Maya Ziani",
+    "username": "mayaz",
+    "email": "maya.ziani@example.com",
+    "age": 27,
+    "gender": "female",
+    "location": "France",
+    "job": "data analyst",
+    "hobby": "reading novels",
+    "profilePicture": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 5,
+    "name": "Rachid Amrani",
+    "username": "rachidam",
+    "email": "rachid.amrani@example.com",
+    "age": 35,
+    "gender": "male",
+    "location": "Spain",
+    "job": "project manager",
+    "hobby": "cycling",
+    "profilePicture": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 6,
+    "name": "Sara Laaroussi",
+    "username": "saral",
+    "email": "sara.l@example.com",
+    "age": 21,
+    "gender": "female",
+    "location": "Egypt",
+    "job": "mobile developer",
+    "hobby": "drawing",
+    "profilePicture": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "id": 7,
+    "name": "Omar Karim",
+    "username": "omark",
+    "email": "omar.karim@example.com",
+    "age": 29,
+    "gender": "male",
+    "location": "Jordan",
+    "job": "DevOps engineer",
+    "hobby": "traveling",
+    "profilePicture": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "id": 8,
+    "name": "Layla Hossain",
+    "username": "laylah",
+    "email": "layla.h@example.com",
+    "age": 26,
+    "gender": "female",
+    "location": "UAE",
+    "job": "software tester",
+    "hobby": "yoga",
+    "profilePicture": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "id": 9,
+    "name": "Ahmed Belkacem",
+    "username": "ahmedb",
+    "email": "ahmed.belkacem@example.com",
+    "age": 31,
+    "gender": "male",
+    "location": "Morocco",
+    "job": "full-stack developer",
+    "hobby": "watching football",
+    "profilePicture": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "id": 10,
+    "name": "Nour Abadi",
+    "username": "noura",
+    "email": "nour.abadi@example.com",
+    "age": 24,
+    "gender": "female",
+    "location": "Lebanon",
+    "job": "content creator",
+    "hobby": "baking",
+    "profilePicture": "https://i.pravatar.cc/150?img=10"
+  }
+]
