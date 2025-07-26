@@ -30,4 +30,14 @@ A simple and responsive JavaScript app that filters a list of users in real-time
 ---
 
 ## 📂 Folder Structure
+📁 live-search-user-filter
+├── 📄 index.html
+├── 📄 style.css
+├── 📄 script.js
+├── 📄 users.json
+└── 📄 README.md
+## 📥 Getting Started
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/live-search-user-filter.git
